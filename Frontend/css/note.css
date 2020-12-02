@@ -1,0 +1,9 @@
+.annotateImageContainer {
+	position: relative;
+}
+
+.annotateNote {
+	position: absolute;
+	background-color: #fff;
+	padding: .2em;
+}
